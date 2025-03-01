@@ -10,6 +10,9 @@ int main()
     int     ==>%d
     float   ==>%f
     char    ==>%c
+
+    OBS:%d é usado exclusivamente com números decimais inteiros,
+    já o %i é usado para inteiros também, mas independente da base (octal, decimal ou hexadecimal).
     */
     printf("o valor de num1 = %d", num1);
     printf("\n");
