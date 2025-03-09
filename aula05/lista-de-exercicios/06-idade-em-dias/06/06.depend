@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741480885 source:c:\users\beatriz\onedrive\documentos\dev\exercicios-em-c\aula05\lista-de-exercicios\06-idade-em-dias\06\main.c
+	<stdio.h>
+	<stdlib.h>
+

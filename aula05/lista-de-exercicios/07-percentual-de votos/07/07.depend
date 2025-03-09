@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741481844 source:c:\users\beatriz\onedrive\documentos\dev\exercicios-em-c\aula05\lista-de-exercicios\07-percentual-de votos\07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
