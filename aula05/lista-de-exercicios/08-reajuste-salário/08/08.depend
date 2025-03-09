@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741527588 source:c:\users\beatriz\onedrive\documentos\dev\exercicios-em-c\aula05\lista-de-exercicios\08-reajuste-salário\08\main.c
+	<stdio.h>
+	<stdlib.h>
+
