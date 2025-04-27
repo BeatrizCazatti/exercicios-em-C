@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743295485 source:c:\users\beatriz\onedrive\documentos\dev\exercicios-em-c\aula05\lista-de-exercicios\08-reajuste-salário\bhaskara.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
