@@ -3,7 +3,7 @@
 
 int main()
 {
-    //8.Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.
+    //8.Escreva um algoritmo para ler o salï¿½rio mensal atual de um funcionï¿½rio e o percentual de reajuste. Calcular e escrever o valor do novo salï¿½rio.
     float salario, reajuste, novoSalario;
 
     printf("Digite o valor do salario: ");
@@ -13,7 +13,7 @@ int main()
     scanf("%f", &reajuste);
 
     novoSalario = salario + (reajuste/100)*salario;
-    printf("O novo valor é %.2f", novoSalario);
+    printf("O novo valor ï¿½ %.2f", novoSalario);
 
 
     return 0;
