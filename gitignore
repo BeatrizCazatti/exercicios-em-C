@@ -1,0 +1,18 @@
+# Executáveis
+*.out
+*.exe
+
+# Arquivos de objeto e debug
+*.o
+*.so
+*.a
+*.dll
+*.dylib
+
+# Logs e temp
+*.log
+*.tmp
+
+# Pasta de build
+build/
+bin/
