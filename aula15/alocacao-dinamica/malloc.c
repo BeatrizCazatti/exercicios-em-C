@@ -7,6 +7,9 @@ int main () {
     printf("Quantidade de vetores: ");
     scanf("%d", &qtd);
 
+    // malloc - aloca um bloco de memória de um tamanho específico, sem inicialização. 
+    // calloc - aloca um bloco de memória e inicializa todos os seus bytes com zero. 
+    // realloc - redimensiona um bloco de memória previamente alocado
     p = (int*)malloc(qtd * sizeof(int));
 
     for(int i = 0; i < qtd; i++){
